@@ -27,15 +27,15 @@
         "Assets/Game/Mods/RealGrassAssets/PlantsTemperate.fbx",
         "Assets/Game/Mods/RealGrassAssets/Rock.fbx",
         "Assets/Game/Mods/RealGrassAssets/RockWinter.prefab",
-        "Assets/Game/Mods/RealGrassAssets/Textures/BrownGrass_tex.png",
-        "Assets/Game/Mods/RealGrassAssets/Textures/DesertGrass.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/Grass_tex.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/GrassDetails_01.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/GrassDetails_02.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/GrassDetails_03.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/GrassDetails_04.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/GrassDetails_05.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/GrassDetails_06.psd",
-        "Assets/Game/Mods/RealGrassAssets/Textures/GreenGrass_tex.png"
+        "Assets/Game/Mods/RealGrassAssets/Materials/Classic/BrownGrass_tex.png",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Classic/GreenGrass_tex.png",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/DesertGrass.psd",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/Grass_tex.psd",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/GrassDetails_01.psd",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/GrassDetails_02.psd",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/GrassDetails_03.psd",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/GrassDetails_04.psd",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/GrassDetails_05.psd",
+        "Assets/Game/Mods/RealGrassAssets/Materials/Grass/GrassDetails_06.psd"
     ]
 }
